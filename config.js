@@ -2,7 +2,7 @@ let fs = require('fs');
 let chalk = require('chalk');
 
 //Nomer Owner
-global.owner = ['6285890441472'] // Put your number here
+global.owner = ['6283140486412'] // Put your number here
 
 // Petunjuk Di Menu
 global.inUrl = '<link>'
@@ -10,7 +10,7 @@ global.inReason = '<alasan>'
 global.inTeks = '<teks>'
 global.inQuery = '<pencarian>'
 global.inOption = o => '['+o+']'
-global.inUser = '@user'
+global.inUser = '@aruloffc'
 global.inQuestion = '<soal>'
 global.inPlease = o => '('+o+')'
 global.SymbolMeaning = `*Symbol meaning :*
@@ -32,9 +32,9 @@ const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
   var sticker_name = `𝙵ͥ͢𝚊ͣ𝚛ͫ𝚒͓͒𝚒𝙳͓ͯ - 💓
 
-❑ ιηѕтαgяαм : @faridmhrdkaa
-❑ gιтнυв : @Fariiid-M
-❑ ωнαтѕαρρ : 6285890441472\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
+❑ ιηѕтαgяαм : @Arul_anak_baek
+❑ gιтнυв : @rullxy-M
+❑ ωнαтѕαρρ : 6283140486412\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
   var sticker_author = ``
 } else {
   var sticker_name = stickerpack.spackname
